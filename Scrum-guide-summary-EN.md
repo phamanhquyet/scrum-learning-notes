@@ -74,10 +74,11 @@ Product Owner is one person, not a committee, and may represent the needs of man
 
 #### Serves to PO:
 
-Helping find techniques for effective Product Goal definition and Product Backlog management;
-Helping the Scrum Team understand the need for clear and concise Product Backlog items;
-Helping establish empirical product planning for a complex environment; and,
-Facilitating stakeholder collaboration as requested or needed.
+- Helping find techniques for effective Product Goal definition and Product Backlog management;
+- Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+- Helping establish empirical product planning for a complex environment; and,
+- Facilitating stakeholder collaboration as requested or needed.
+
 Serves to the organisation: Leading, training, and coaching, planning, advising on Scrum adoption and implementation, removing barriers between stakeholders and Scrum Teams.
 
 ## 🔥 Scrum events
