@@ -1,18 +1,20 @@
-# TÓM TẮT SCRUM GUIDE
+# 🔥 TÓM TẮT SCRUM GUIDE
 **Mục Lục**
 
 1. [Định nghĩa về Scrum](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-%C4%91%E1%BB%8Bnh-ngh%C4%A9a-v%E1%BB%81-scrum)
-2. [2](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-nh%E1%BB%AFng-thay-%C4%91%E1%BB%95i-ch%C3%ADnh-trong-scrum-guide-2020-phi%C3%AAn-b%E1%BA%A3n-g%E1%BA%A7n-nh%E1%BA%A5t-2017)
-3. [3](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-theory)
-4. [4](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-c%C3%A1c-gi%C3%A1-tr%E1%BB%8B-scrum)
-5. [5](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-team)
+2. [Những thay đổi chính trong Scrum Guide 2020](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-nh%E1%BB%AFng-thay-%C4%91%E1%BB%95i-ch%C3%ADnh-trong-scrum-guide-2020-phi%C3%AAn-b%E1%BA%A3n-g%E1%BA%A7n-nh%E1%BA%A5t-2017)
+3. [Scrum Theory](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-theory)
+4. [Các giá trị Scrum](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-c%C3%A1c-gi%C3%A1-tr%E1%BB%8B-scrum)
+5. [Scrum Team](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-team)
    
-   5.1. [5.1](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#developers---nh%C3%A0-ph%C3%A1t-tri%E1%BB%83n)
+   5.1. [Developers ](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#developers---nh%C3%A0-ph%C3%A1t-tri%E1%BB%83n)
    
-   5.2. [5.2](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#product-owner) 
+   5.2. [Product Owner](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#product-owner) 
 
-   5.3. [5.3](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#scrum-master]
-7. [6]
+   5.3. [Scrum Master](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#scrum-master)
+   
+6. [Scrum Events](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-events)
+7. [Scrum Artifacts](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-artifacts)
 ## 🔥 Định nghĩa về Scrum
 **Scrum** là một khung nhẹ (linh hoạt và đơn giản) giúp mọi người, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
 
