@@ -2,7 +2,7 @@
 
 ## English
 
-[https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-EN.md]
+**https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-EN.md**
 
 ## Vietnamese
-[https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md]
+**https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md**
