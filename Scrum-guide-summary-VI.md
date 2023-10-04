@@ -1,3 +1,18 @@
+# TÓM TẮT SCRUM GUIDE
+**Mục Lục**
+
+1. [Định nghĩa về Scrum](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-%C4%91%E1%BB%8Bnh-ngh%C4%A9a-v%E1%BB%81-scrum)
+2. [2](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-nh%E1%BB%AFng-thay-%C4%91%E1%BB%95i-ch%C3%ADnh-trong-scrum-guide-2020-phi%C3%AAn-b%E1%BA%A3n-g%E1%BA%A7n-nh%E1%BA%A5t-2017)
+3. [3](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-theory)
+4. [4](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-c%C3%A1c-gi%C3%A1-tr%E1%BB%8B-scrum)
+5. [5](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#-scrum-team)
+   
+   5.1. [5.1](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#developers---nh%C3%A0-ph%C3%A1t-tri%E1%BB%83n)
+   
+   5.2. [5.2](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#product-owner) 
+
+   5.3. [5.3](https://github.com/phamanhquyet/scrum-learning-notes/blob/master/Scrum-guide-summary-VI.md#scrum-master]
+7. [6]
 ## 🔥 Định nghĩa về Scrum
 **Scrum** là một khung nhẹ (linh hoạt và đơn giản) giúp mọi người, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
 
@@ -106,6 +121,7 @@ Sprint backlog = Sprint Goal + selected Product Backlog items + Dev plan
 ```
 
 **Timebox = không quá 8 giờ cho 1 Sprint kéo dài 1 tháng**
+
 *Timebox ám chỉ việc giới hạn một khoảng thời gian cụ thể cho một hoạt động hoặc sự kiện.*
 
 
@@ -113,6 +129,7 @@ Sprint backlog = Sprint Goal + selected Product Backlog items + Dev plan
 Mục đích của Daily Scrum là kiểm tra tiến độ hướng tới Sprint Goal và điều chỉnh Sprint Backlog khi cần thiết. Daily Scrum không phải là lần duy nhất Developers được phép điều chỉnh kế hoạch của mình - họ cũng có thể gặp nhau bất kỳ lúc nào nếu cần thiết.
 
 **Timebox: 15 phút mỗi ngày**
+
 *Timebox ám chỉ việc giới hạn một khoảng thời gian cụ thể cho một hoạt động hoặc sự kiện.*
 
 ### Sprint review
@@ -120,6 +137,7 @@ nhằm kiểm tra kết quả của Sprint và xác định các biện pháp th
 
 
 **Timebox = không quá 4 giờ cho 1 Sprint kéo dài 1 tháng**
+
 *Timebox ám chỉ việc giới hạn một khoảng thời gian cụ thể cho một hoạt động hoặc sự kiện.*
 
 
@@ -135,7 +153,7 @@ Mục đích của buổi Sprint Retrospective là lập kế hoạch các cách
 3. Increment with commitment = Definition of Done
 
 ### Product Backlog
-PProduct Backlog là một danh sách được sắp xếp theo thứ tự về những gì cần thiết để cải tiến sản phẩm. Đây là nguồn công việc duy nhất do Scrum Teamthực hiện.
+Product Backlog là một danh sách được sắp xếp theo thứ tự về những gì cần thiết để cải tiến sản phẩm. Đây là nguồn công việc duy nhất do Scrum Teamthực hiện.
 
 ### Sprint Backlog
 Sprint Backlog bao gồm Sprint Goal (why), tập hợp các hạng mục Product Backlog items được chọn cho Sprint (what), cũng như một kế hoạch khả thi để thực hiện Increment (how).
