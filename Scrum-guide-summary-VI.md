@@ -33,7 +33,7 @@
 - Sprint Goal tập trung hơn vào việc mang lại và truyền đạt giá trị cho các bên liên quan.
 
 ## 🔥 Scrum Theory
-**Chủ nghĩa kinh nghiệm** (ác quyết định được đưa ra dựa trên kiến ​​thức kinh nghiệm) và **tư duy Lean** (giảm lãng phí + giữ sự tập trung).
+**Chủ nghĩa kinh nghiệm** (các quyết định được đưa ra dựa trên kiến ​​thức kinh nghiệm) và **tư duy Lean** (giảm lãng phí + giữ sự tập trung).
 
 Scrum Team = Nhóm chức năng chéo (bao gồm các nhà thiết kế, QA và những người khác - không chỉ Nhà phát triển).
 
