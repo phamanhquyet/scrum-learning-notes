@@ -162,3 +162,5 @@ Sprint Backlog bao gồm Sprint Goal (why), tập hợp các hạng mục Produc
 
 ### Increment
 Mỗi Phiên bản (Increment) được cộng dồn vào tất cả Phiên bản trước đó và được kiểm tra một cách cẩn thận, đảm bảo rằng tất cả Phiên bản hoạt động cùng nhau. Để mang lại giá trị, Phiên bản phải có thể sử dụng được. **Định nghĩa Đã hoàn thành (Definition of Done)** là một mô tả chính thức về trạng thái của Phiên bản khi nó đáp ứng các tiêu chí chất lượng cần thiết cho sản phẩm.
+
+Increment là tổng hợp tất cả các product backlog được hoàn thiện trong suốt một sprint và giá trị tăng trưởng của tất cả các sprints trước đó.
